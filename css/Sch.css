@@ -1,0 +1,35 @@
+body{
+    background: violet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: fantasy;
+    font: 45px;
+    text-align: center;
+}
+h2{
+    color:black;
+    font:bolder;
+    font-family: sans-serif;
+    text-align: left;
+    padding: 2%;
+}
+h3{
+    text-align: left;
+    font: bolder;
+    color: #000;
+    padding: 2%;
+    font-family: sans-serif;
+}
+p1{
+    padding: 2%;
+    font-family: goergia;
+}
+p2{
+    font-family: cursive;
+    padding: 2%;
+}
+p3{
+    color: aquamarine;
+    padding: 3%;
+}
